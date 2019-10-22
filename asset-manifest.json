@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movie-rater-web/static/css/main.1fbf3590.chunk.css",
+    "main.js": "/movie-rater-web/static/js/main.3a954d04.chunk.js",
+    "main.js.map": "/movie-rater-web/static/js/main.3a954d04.chunk.js.map",
+    "runtime-main.js": "/movie-rater-web/static/js/runtime-main.84003c6b.js",
+    "runtime-main.js.map": "/movie-rater-web/static/js/runtime-main.84003c6b.js.map",
+    "static/js/2.ab240e40.chunk.js": "/movie-rater-web/static/js/2.ab240e40.chunk.js",
+    "static/js/2.ab240e40.chunk.js.map": "/movie-rater-web/static/js/2.ab240e40.chunk.js.map",
+    "index.html": "/movie-rater-web/index.html",
+    "precache-manifest.39b8857653c14787e1bb7e8e04912526.js": "/movie-rater-web/precache-manifest.39b8857653c14787e1bb7e8e04912526.js",
+    "service-worker.js": "/movie-rater-web/service-worker.js",
+    "static/css/main.1fbf3590.chunk.css.map": "/movie-rater-web/static/css/main.1fbf3590.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84003c6b.js",
+    "static/js/2.ab240e40.chunk.js",
+    "static/css/main.1fbf3590.chunk.css",
+    "static/js/main.3a954d04.chunk.js"
+  ]
+}
